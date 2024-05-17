@@ -1,0 +1,6 @@
+@SampleMasstransit_HostAddress = http://localhost:5006
+
+GET {{SampleMasstransit_HostAddress}}/weatherforecast?delay=true
+Accept: application/json
+
+###

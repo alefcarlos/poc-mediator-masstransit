@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{BCEC19A3-6081-47E8-B2E9-C56C3FEDE5A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleMasstransit", "src\SampleMasstransit\SampleMasstransit.csproj", "{FE5EDA93-4E5C-4521-BE24-8F8FA8E4E05A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE5EDA93-4E5C-4521-BE24-8F8FA8E4E05A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE5EDA93-4E5C-4521-BE24-8F8FA8E4E05A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE5EDA93-4E5C-4521-BE24-8F8FA8E4E05A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE5EDA93-4E5C-4521-BE24-8F8FA8E4E05A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FE5EDA93-4E5C-4521-BE24-8F8FA8E4E05A} = {BCEC19A3-6081-47E8-B2E9-C56C3FEDE5A3}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D527A023-C292-4D4C-A7CC-60D5CDC02F05}
+	EndGlobalSection
+EndGlobal
